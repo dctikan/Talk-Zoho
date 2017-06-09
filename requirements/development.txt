@@ -1,4 +1,4 @@
-pytest==3.0.6
+pytest==3.1.2
 pytest-tornado==0.4.5
 pytest-dotenv==0.1.0
 pytest-cov==2.4.0
